@@ -7,7 +7,7 @@ export default function HomePage() {
   const [data, setdata] = useState([]);
 
   const fetchdata = () => {
-    axios.get("http://localhost:3000/workout").then((res) => {
+    axios.get("https://blooming-waters-42258.herokuapp.com/workout").then((res) => {
       setdata(res.data);
     });
   };

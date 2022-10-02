@@ -17,7 +17,7 @@ export default function AllExercisePage() {
   const [page, setPage] = useState(1);
   const fetchdata = (page) => {
     axios
-      .get(`http://localhost:3000/database?_limit=5&_page=${page}`)
+      .get(`https://blooming-waters-42258.herokuapp.com/database?_limit=5&_page=${page}`)
       .then((res) => {
         setdata(res.data);
       });

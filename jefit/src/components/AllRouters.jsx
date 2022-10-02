@@ -6,6 +6,7 @@ import Checkout from "../Pages/Checkout";
 import Blog from "./Blog";
 import Exercise from "./Exercise";
 import Elite from "./Elite";
+import AllExercisePage from "../Pages/AllExercisePage";
 export default function AllRouters() {
   return (
     <div>
@@ -17,6 +18,7 @@ export default function AllRouters() {
         <Route path="/Exercise" element={<Exercise />} />
         <Route path="/Elite" element={<Elite />} />
         <Route path="/Pages/Checkout" element={<Checkout />} />
+        <Route path="/Pages/AllExercisePage" element={<AllExercisePage />} />
       </Routes>
     </div>
   );
