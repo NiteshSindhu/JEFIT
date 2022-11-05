@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+## JEFIT ![Badge](https://visitor-counter-badge.vercel.app/api/NiteshSindhu/elfin-dust-7030)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo](https://www.jefit.com/wp/wp-content/uploads/2017/07/cropped-logo_155_40_white-120x31.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Badges
 
-### `npm start`
+[![Netlify Status](https://api.netlify.com/api/v1/badges/504678a1-de2b-4f30-a204-6fdf0a280ebb/deploy-status)](https://633989a129322c53d320550a--the-great-niteshsindhu-site.netlify.app/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/NiteshSindhu/elfin-dust-7030/tree/master/jefit)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This is body Exercise Website. JEFIT, the number one workout tracking and planning app, provides a free fitness program database to help you stay fit, make progress and get the most out of your gym or home fitness sessions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies we used
 
-### `npm test`
+- HTML
+- CSS
+- JAVASCRIPT
+- Browser LocalStorage
+- React
+- Chakra UI
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- There is login and logout functionality.
+- Elegant navbar for easy navigation between pages and categories.
+- Customers can view the Excercise list of a particular category.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
+A glimpse of our website
 
-### `npm run eject`
+- On this page users can signup/sign-in based on whether the user is already registered or not.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Step :- 1
+![Sign in](../pics/Signin.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Step :- 2
+![Create account](../pics/Signup.PNG)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- The landing page.
 
-## Learn More
+Step :- 1
+![Landing page](../pics/landing.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- The list of Excercise
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Web capture_9-5-2022_16184_](../pics/Excercise.png)
 
-### Code Splitting
+![Elite page](../pics/Elite.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- on the checkout page,  address and credit card details in order to place the order.
 
-### Analyzing the Bundle Size
+Step :- 1
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Checkout page](../pics/Payment.png)
 
-### Making a Progressive Web App
+- There is footer page where the user see terms and condition and connected to our social sites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Footer](../pics/footer.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/504678a1-de2b-4f30-a204-6fdf0a280ebb/deploy-status)](https://app.netlify.com/sites/nordstrom-clone-245a2a/deploys)
+ [Demo link here](https://633989a129322c53d320550a--the-great-niteshsindhu-site.netlify.app/) 
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Author
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Nitesh Sindhu](https://github.com/NiteshSindhu)
